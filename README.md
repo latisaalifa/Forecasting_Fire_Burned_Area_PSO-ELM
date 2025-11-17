@@ -12,3 +12,6 @@ This repository contains the **scripts and workflow** for my thesis project on *
 - Predicting using testing Model (Annual)
 - Visualized model performance
 - Article already published: [Article Publication](https://doi.org/10.33005/senada.v5i1.481)
+
+### Latisa Alifa Maura
+#### Data Scientist | Data Analyst | Business Intelligence
